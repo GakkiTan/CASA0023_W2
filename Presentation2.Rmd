@@ -9,6 +9,7 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      css: [default, metropolis, metropolis-fonts]
 ---
 ```{r echo=FALSE}
 library(RefManageR)
